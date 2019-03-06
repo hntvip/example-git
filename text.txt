@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9EF8-0EDE
+
+ Directory of C:\Users\hntu\Desktop\example-git
+
+03/06/2019  10:39 AM    <DIR>          .
+03/06/2019  10:39 AM    <DIR>          ..
+03/06/2019  10:39 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  90,768,515,072 bytes free
